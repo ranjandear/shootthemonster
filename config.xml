@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.ayush.ranjan"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Online Whiteboard</name>
+
+  <description>
+      Draw any shape or write anything in whichever colour you need. You get a pencil and an eraser (Magic Wand Icon).
+  </description>
+
+  <author href="https://scratch.mit.edu/projects/415942212/editor/" email="tratrsk8@gmail.com">
+      Ayush Ranjan
+  </author>
+	<icon src="icon.png" />
+</widget>
