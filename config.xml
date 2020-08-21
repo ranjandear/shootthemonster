@@ -7,10 +7,11 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Online Whiteboard</name>
+  <name>Shoot to WIN the Monster</name>
 
   <description>
-      Draw any shape or write anything in whichever colour you need. You get a pencil and an eraser (Magic Wand Icon).
+      Click "Play" to start the game.
+      Shoot the Monster with GREEN button, and save your player using Left <= or Right => button.
   </description>
 
   <author href="https://scratch.mit.edu/projects/415942212/editor/" email="tratrsk8@gmail.com">
