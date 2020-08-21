@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.ayush.ranjan"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Shoot to WIN the Monster</name>
+
+  <description>
+	  Click "Play" to start the game.
+      Shoot the Monster with GREEN button, and save your player using Left <= or Right => button.
+  </description>
+
+  <author href="https://scratch.mit.edu/projects/416129672/editor/" email="tratrsk8@gmail.com">
+      Ayush Ranjan
+  </author>
+	<icon src="icon.png" />
+</widget>
